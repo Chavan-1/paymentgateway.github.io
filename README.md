@@ -15,7 +15,7 @@ Once the payment is done and invoice will be generated and email will be sent to
 On any page / email, only basic information is needed.
 
 #Technologies used:
-Frontend: HTML5, CSS3, JS
+Frontend: HTML5 and W3CSS
 For payment gateway, Razorpay is used.
 Testing: - Gateway has been tested with SandBox/Testing Accounts from 3rd Party.
 Hosting: -This Website has been deployed on “Github.io”
