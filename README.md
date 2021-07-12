@@ -1,9 +1,9 @@
 # paymentgetwayintegration.github.io
 
 The Sparks Foundation
-Graduate Rotational Internship Program
-(GRIP)
-July2021
+#Graduate Rotational Internship Program
+#(GRIP)
+#July2021
 
 Task#3 Payment Gateway Integration
 
